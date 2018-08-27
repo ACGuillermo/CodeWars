@@ -14,7 +14,7 @@ It's a cool website where you face challenges and you get leveled by how good yo
 
 ### JavaScript:
 
--[String Incremeter](javascript/string_incrementer.js) 5 Kyu
--[Are they the same?](javascript/are_they_the_same.js) 6 Kyu
--[Detect Pangram](javascript/detect_pangram.js) 6 Kyu
--[Reverse or Rotate](javascript/reverse_or_rotate.s) 6 Kyu
+- [String Incremeter](javascript/string_incrementer.js) - 5 Kyu
+- [Are they the same?](javascript/are_they_the_same.js) - 6 Kyu
+- [Detect Pangram](javascript/detect_pangram.js) - 6 Kyu
+- [Reverse or Rotate](javascript/reverse_or_rotate.s) - 6 Kyu
